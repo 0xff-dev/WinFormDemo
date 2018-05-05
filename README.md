@@ -5,7 +5,7 @@
 1. linux system
 2. mono
 3. Don't need IDE
-4. MySQl [How to connect mysql by c#](http://http://www.coderzs.top/2018/04/20/mysql_ssl/)
+4. MySQl [How to connect mysql by c#](http://www.coderzs.top/2018/04/20/mysql_ssl/)
 
 
 ## Functions
