@@ -20,7 +20,7 @@ namespace SetUp.Model{
 		private MySqlConnection conn = null;
 		private MySqlCommand cmd = null;
 		private string ConnSql = @"Data Source=localhost;port=3306;User Id=root;
-		password=Zs935809546;Database=test";
+		password=*******;Database=test";
 
 
 		public DBManager(){
